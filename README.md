@@ -2,6 +2,8 @@
 
 James Fleming
 
+Sites at [expose](https://james-fleming12.github.io/Lab5_Starter/expose.html) and [explore](https://james-fleming12.github.io/Lab5_Starter/explore.html)
+
 # Explore:
 
 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not?
