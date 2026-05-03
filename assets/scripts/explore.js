@@ -43,7 +43,7 @@ function init() {
         }
 
         utterThis.addEventListener('start', () => {
-            faceImage.src = 'assets/images/open.png'; 
+            faceImage.src = 'assets/images/smiling-open.png'; 
         });
 
         utterThis.addEventListener('end', () => {
